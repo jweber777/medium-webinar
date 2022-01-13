@@ -1038,20 +1038,6 @@
          "tilecount":4,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "backgroundcolor":"#005500",
-         "columns":8,
-         "firstgid":14775,
-         "image":"..\/Pipoya RPG Tileset 32x32\/Pipoya RPG Tileset 32x32\/SampleMap\/LightShadow_pipo.png",
-         "imageheight":192,
-         "imagewidth":256,
-         "margin":0,
-         "name":"LightShadow_pipo",
-         "spacing":0,
-         "tilecount":48,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
