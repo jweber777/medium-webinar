@@ -193,7 +193,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"<iframe name=\"embed_readwrite\" src=\"https:\/\/yopad.eu\/p\/WirtschaftBilden-365days?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false\" width=\"100%\" height=\"600\" frameborder=\"0\"><\/iframe>"
+                 "value":"https:\/\/yopad.eu\/p\/WirtschaftBilden-365days"
                 }],
          "type":"tilelayer",
          "visible":true,
